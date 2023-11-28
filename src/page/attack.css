@@ -1,0 +1,218 @@
+.google-map1 {
+    width: 100%;
+    height: 100%;
+}
+.google-map {
+    width: 45%;
+    height: 92.1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 0;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.command_select {
+    position: fixed;
+    left: 0;
+    width: 20%;
+    height: 100%;
+    background-color: rgb(63, 59, 54);
+    color: aliceblue;
+}
+
+.attack_select {
+    width: 70%;
+    height: 30px;
+    border: none;
+    outline: none;
+    border-top-left-radius: 10px ;
+    border-bottom-left-radius: 10px ;
+}
+
+.btn-select-attack {
+    width: 20%;
+    height: 30px;
+    border: none;
+    outline: none;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.wrapper_select {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.handle-select {
+    width: 35%;
+    background-color: rgb(0, 0, 0);
+    height: 100%;
+    position: fixed;
+    left: 20%;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    color: wheat;
+    padding: 10px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.header_attack {
+    width: 100%;
+    height: 100%;
+}
+
+.zwaizig {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.command_header {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+    border-bottom: 1px solid #fff;
+    box-sizing: border-box;
+}
+
+.list_select {
+    width: 30%;
+    height: 60%;
+    margin-right: 20px;
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    backdrop-filter: blur(15px);
+    background: transparent;
+    color: red;
+}
+
+.submit-command {
+    width: 13%;
+    height: 20px;
+    border-radius: 10px;
+    background: transparent;
+    backdrop-filter: blur(15px);
+    border: none;
+    outline: none;
+    border: 1px solid #09a2f4;
+    color: rgb(11, 200, 242);
+    cursor: pointer;
+}
+
+.data_result_command {
+    width: 100%;
+    max-height: 80vh;
+    box-sizing: border-box;
+    position: relative;
+    overflow-y: auto;
+    margin-top: 10px;
+}
+
+.data_recv_elf {
+    width: 95%;
+    height: auto;
+    font-weight: 700;
+    font-size: 1rem;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: start;
+    background-color: rgb(34, 30, 36);
+    margin-left: 10px;
+    max-width: 95%;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    color: burlywood;
+    position: relative;
+}
+
+.dreiBig {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 20px;
+}
+
+.ip_address_target {
+    margin-left: 25px;
+    border: none;
+    outline: none;
+}
+
+.port_target {
+    border: none;
+    outline: none;
+    margin-left: 20px;
+}
+
+.start-stop {
+    width: 100%;
+    display: flex;
+    height: 80px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-bottom: 1px solid #fff;
+}
+
+.btn_start {
+    margin-right: 20px;
+    margin-top:10px;
+    width: 60px;
+    height: 30px;
+    cursor: no-drop;
+    background-color: red;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}
+
+.btn_stop {
+    margin-right: 20px;
+    margin-top: 10px;
+    width: 60px;
+    height: 30px;
+    cursor: pointer;
+    background-color: rgb(7, 236, 30);
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}
+
+.app{
+    display: flex;
+   
+   
+}
+.main{
+ flex-basis: 60%;
+ display: flex;
+ flex-direction: column;
+}
+.map{
+ flex-grow: 1;
+ height: 100vh;
+ top: 0;
+ position: sticky;
+}
+.stadium{
+ display: flex;
+ flex-wrap: wrap;
+ align-content: flex-start;
+}

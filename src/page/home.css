@@ -1,0 +1,361 @@
+.wrapper_home {
+    color: wheat;
+    width: 100%;
+    height: auto;
+}
+
+.intro_victim {
+    width: 100%;
+    height: 40px;
+    background-color: rgb(46, 44, 44);
+    color: antiquewhite;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+}
+
+#enis {
+    width: 100px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: none;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top: 1px solid #fff;
+}
+
+#zwei {
+    width: 200px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top: 1px solid #fff;
+}
+
+#socket_ip {
+    width: 300px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top: 1px solid #fff;
+}
+
+#drei {
+    width: 210px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top: 1px solid #fff;
+}
+
+#vier {
+    width: 160px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top: 1px solid #fff;
+}
+
+#funf {
+    width: 210px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top: 1px solid #fff;
+}
+
+#sechs {
+    width: 210px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top: 1px solid #fff;
+}
+
+#sieben {
+    width: 210px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top: 1px solid #fff;
+}
+
+#acht {
+    width: 200px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    border-top: 1px solid #fff;
+}
+
+#online {
+    width: 120px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-right: 1px solid #fff; 
+    border-bottom: 1px solid #fff;
+    border-top: 1px solid #fff;
+}
+
+.infor_victims {
+    width: 100%;
+    height: 40px;
+    background-color: rgb(46, 44, 44);
+    color: antiquewhite;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+}
+
+.eni {
+    width: 100px;
+    max-width: 100px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: none;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+}
+
+.zwe {
+    width: 200px;
+    max-width: 200px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+}
+
+.socket {
+    width: 300px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+}
+
+.dre {
+    width: 210px;
+    max-width: 210px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+}
+
+.vie {
+    width: 160px;
+    max-width: 160px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+}
+
+.fun {
+    width: 210px;
+    max-width: 210px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+}
+
+.sech {
+    width: 210px;
+    max-width: 210px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+}
+
+.siebe {
+    width: 210px;
+    max-width: 210px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+}
+
+.ach {
+    width: 200px;
+    max-width: 200px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+}
+
+.onl {
+    width: 120px;
+    max-width: 120px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-right: 1px solid #fff; 
+    border-bottom: 1px solid #fff;
+}
+
+.page_victims {
+    color: #fff;
+    position: fixed;
+    bottom: 20px;
+    left: 0;
+    right: 0;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+}
+
+.select_victims {
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.select_system {
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    width: 6%;
+    background: transparent;
+    backdrop-filter: blur(15px);
+    color: red ;
+}
+
+.select_ip {
+    border: none;
+    outline: none;
+    width: 10%;
+    background: transparent;
+    backdrop-filter: blur(15px);
+    color: red;
+    margin-left: 20px;
+    border-bottom: 1px solid #fff;
+}
+
+.select_online {
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    width: 6%;
+    background: transparent;
+    backdrop-filter: blur(15px);
+    color: red;
+    margin-left: 20px;
+}
+
+.style_options {
+    color: red;
+    background-color: black;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-weight: 500;
+    font-size: 0.8rem;
+}
+
+.delete_user {
+    width: 50px;
+    max-width: 120px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-right: 1px solid #fff; 
+    border-bottom: 1px solid #fff;
+    cursor: no-drop;
+}
+
+.delete_user_enis {
+    width: 50px;
+    max-width: 120px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-right: 1px solid #fff; 
+    border-bottom: 1px solid #fff;
+    border-top: 1px solid #fff;
+}
